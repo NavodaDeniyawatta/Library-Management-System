@@ -1,0 +1,305 @@
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.exe
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.deps.json
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Form1.resources
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\USER\Desktop\NAVO\LibraryManagementSystem\obj\Debug\net6.0-windows\ref\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\ref\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddBooks.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmLogin.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmDashboard.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.viewbook.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ViewStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddBooks.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmLogin.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmDashboard.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.viewbook.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ViewStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\LibraryManagementSystem\obj\Debug\net6.0-windows\ref\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddBooks.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmLogin.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmDashboard.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.viewbook.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ViewStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LEVEL 1 SEMESTER 2\ITE 1942 - ICT Project\10th Week - Application development using a Visual Programming Language\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddBooks.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmLogin.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmDashboard.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.viewbook.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ViewStudent.resources
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\BIT\LibraryManagementSystem\obj\Debug\net6.0-windows\ref\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.exe
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddBooks.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddStudent.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmLogin.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmDashboard.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.viewbook.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ViewStudent.resources
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\ref\LibraryManagementSystem.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.exe
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.deps.json
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.runtimeconfig.json
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\LibraryManagementSystem.pdb
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JAVA\LibraryManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddBooks.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AddStudent.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmLogin.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.frmDashboard.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.Properties.Resources.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.viewbook.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ViewStudent.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.csproj.CopyComplete
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.dll
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\refint\LibraryManagementSystem.dll
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.pdb
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\ref\LibraryManagementSystem.dll
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.IssueBooks.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.ReturnBook.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.SignUp.resources
+D:\JAVA\LibraryManagementSystem\obj\Debug\net6.0-windows\LibraryManagementSystem.CompleteBook.resources

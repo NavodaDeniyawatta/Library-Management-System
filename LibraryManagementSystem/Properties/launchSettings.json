@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibraryManagementSystem": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
